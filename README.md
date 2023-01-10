@@ -1,7 +1,11 @@
 # Ludum Dare 52 - Eat your fruits
 
+[![video_preview](https://img.youtube.com/vi/Gu9vQqUJAYg/0.jpg)](https://www.youtube.com/watch?v=Gu9vQqUJAYg)
+
 Fast-paced FPS where you punch trees to harvest fruits and throw them at others. 
 Game made in 48h for Ludum Dare 52.
+
+The code submitted by the end of the jam is at [this commit](https://github.com/aduermael/ld52/tree/6345eecd79ec311f995fc063313c292535ded33a).
 
 ## How to play
 
